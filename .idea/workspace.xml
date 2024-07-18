@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3fbafed-cf79-4c92-8035-5e1a0cb33b97" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/app/learn/pandas01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/app/pro1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/app/random_award.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/app/tmp/processing_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/app/tmp/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/app/twosum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/config/information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/data/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/data/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/data/jnqq-2-A-00-ODS层mapping-V1.4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/data/question.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/data/recode.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/data/指标口径（汇总）调研.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/test/tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/utils/sqoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/spiders/itcast.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/redBook/spiders/user_account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Creeper/redBook/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learn Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn Python/.idea/shelf/_2024-03-24_20_43____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn Python/.idea/shelf/在进行更新之前于_2024-03-24_20_43_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learn Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/FastAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPI/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/app/learn/no1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/app/learn/多维数组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/app/learn/队列问题讲解.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/app/spider/mp4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/config/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/config/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/test/DBsync.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/test/ahah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/test/no.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/test/test_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/utils/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/utils/mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/utils/redis_.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2jK8MgJsCXJMxiGFpipGalkqZgh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Data/study_data/MocPlay/home/Django/library",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a3fbafed-cf79-4c92-8035-5e1a0cb33b97" name="更改" comment="" />
+      <created>1721124361508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721124361508</updated>
+      <workItem from="1721124362575" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
